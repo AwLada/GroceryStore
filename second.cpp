@@ -43,7 +43,6 @@ int main()
 
                         list.push_back (item);
                         numItems += 1;
-
                 }
         } while ( toupper (input) != 'Q');
 

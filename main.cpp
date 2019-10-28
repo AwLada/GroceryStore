@@ -47,7 +47,7 @@ do
 while ( toupper (input) != 'Q');
 if ( toupper (input) == 'Q' )
 {
-cout<<"=ITEMS TO BUY=="<<endl;
+cout<<"==ITEMS TO BUY=="<<endl;
 cout<<"1 "<<list[0]<<endl;
 cout<<"2 "<<list[1]<<endl;
 cout<<"3 "<<list[2]<<endl;
